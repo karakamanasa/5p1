@@ -1,0 +1,13 @@
+list=[12,23,21,1,26,45,78,68,97,90]
+num=int(input('enter a number'))
+if num in list:
+    print("Element found")
+else:
+    print("Element not found")
+
+
+
+
+output:
+enter a number23
+Element found
